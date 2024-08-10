@@ -3,12 +3,12 @@
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+AAFAT+𝗺𝘂𝘀𝗶𝗰+𝐑𝐄𝐏𝐎;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃+🔥;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗠𝗥+𝗔𝗿𝘁𝗶𝘀𝘁+😈)](https://github.com/wwwlbs22/ADS_MUSIC_BOT?tab)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+Queen+𝗺𝘂𝘀𝗶𝗰+𝐑𝐄𝐏𝐎;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃+🔥;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗠𝗥+𝗔𝗿𝘁𝗶𝘀𝘁+😈)](https://github.com/wwwlbs22/ADS_MUSIC_BOT?tab)
 
 
 
 <p align="center">
-  <img src="https://graph.org/file/b4b812238f51f2b467e99.jpg">
+  <img src="https://graph.org/file/fb8392a2a449e9d87d8d7.jpg">
 </p>
 
 
