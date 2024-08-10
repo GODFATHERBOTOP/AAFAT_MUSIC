@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 AAFAT ✘ 𝗺𝘂𝘀𝗶𝗰 」─
+    ─「 QUEEN ✘ 𝗺𝘂𝘀𝗶𝗰 」─
 
 </h2>
 
