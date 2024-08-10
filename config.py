@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Tp_sam_op")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Op_Godfather")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "AAFAT01BOT")
 # --------------------------------------------------------
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002012371765))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 5864436910))
+OWNER_ID = int(getenv("OWNER_ID", 6410417363))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -68,7 +68,7 @@ GIT_TOKEN = getenv(
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/GODFATHER_BOTSS")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/THE_M_K_D")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MARATHI_CHATTING_FRIEND")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/9567e1d33f65cbd021cee.mp4"
+    "START_IMG_URL", "https://graph.org/file/fb8392a2a449e9d87d8d7.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/ae7d1efb7e043ce53df53.jpg"
